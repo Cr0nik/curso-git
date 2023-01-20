@@ -9,5 +9,5 @@ git log --oneline
 git commit . -m ""
 git push
 git pull
-git add
+git add . (para todas as pastas)
 ```
