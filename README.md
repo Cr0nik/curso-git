@@ -10,4 +10,5 @@ git commit . -m ""
 git push
 git pull
 git add . (para todas as pastas)
+git restore
 ```
